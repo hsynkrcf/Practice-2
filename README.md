@@ -1,11 +1,10 @@
 # Practice-2
 
+## Öğrenci Otomasyonu
 1.	Öğrenci Ekle
 2.	Öğrencileri Listele
 3.	Öğrenci Sil
 4.	Çıkış
-
-## Öğrenci Otomasyonu
 1) >Kullanıcıya yukarıdaki menüyü gösterilir. Öğrenci ekle dediğinde Enter’a basana kadar öğrenci ekler.
 Listele dediğinde sıralayarak ekrana yazıyor.
 Öğrenci sil dediğinde, silmek istediği öğrencinin sırasını ister. Sonra da siler. Programı kapat dediğinde de oto çıkış yapar.
